@@ -39,13 +39,13 @@ Step 1: Create Windows 11 Installation Media
 
       Create the Installation Media:
       
-      (image-1.png)
+      ![alt text](image-1.png)
 
       Insert a USB flash drive with at least 8 GB of storage.
       
       Select the USB drive from the list and click "Next". 
 
-      (image-2.png)
+      ![alt text](image-2.png)
 
       The tool will download Windows 11 and create the bootable USB drive.
       
