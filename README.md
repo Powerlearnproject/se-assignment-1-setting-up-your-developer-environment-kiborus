@@ -23,7 +23,7 @@ Step 1: Create Windows 11 Installation Media
 
       Open the downloaded Media Creation Tool executable file.
 
-      (<Screenshot 2024-06-19 201655.png>)
+      ![alt text](<Screenshot 2024-06-19 201655.png>)
 
       Accept the license terms.
 
@@ -31,11 +31,11 @@ Step 1: Create Windows 11 Installation Media
 
       Choose the language, edition, and architecture (64-bit) and press next.
 
-      (<Screenshot 2024-06-19 201851.png>)
+      ![alt text](<Screenshot 2024-06-19 201851.png>)
 
       Select "USB flash drive" as the media to use. Alternatively, you can choose "ISO file" if you want to create a bootable DVD.
 
-      (<Screenshot 2024-06-19 203412.png>)
+      ![alt text](<Screenshot 2024-06-19 203412.png>)
 
       Create the Installation Media:
       
@@ -51,7 +51,7 @@ Step 1: Create Windows 11 Installation Media
       
       After that click finish
 
-      (image-3.png)
+      ![alt text](image-3.png)
 
       Step 2: Install Windows 11 Using the Installation Media
 
@@ -63,7 +63,7 @@ Step 1: Create Windows 11 Installation Media
       
       Boot from the USB Drive:
       
-      (image-4.png)
+      ![alt text](image-4.png)
 
       Start the Installation Process:
 
@@ -71,33 +71,33 @@ Step 1: Create Windows 11 Installation Media
       
       The Windows Setup screen will appear. Select your language, time, and keyboard preferences, and click "Next".
 
-      (image-5.png)
+      ![alt text](image-5.png)
 
       Click "Install now".
 
-      (image-6.png)
+      ![alt text](image-6.png)
 
       Enter Product Key:
 
       If prompted, enter your Windows 11 product key. If you are upgrading from Windows 10, you may skip this step as the activation should be automatic.
 
-      (image-7.png)
+      ![alt text](image-7.png)
 
       Select Installation Type:
 
       Choose "Custom: Install Windows only (advanced)" for a clean installation.
 
-      (image-8.png)
+      ![alt text](image-8.png)
 
       choose windows type and click next.
 
-      (image-9.png)
+      ![alt text](image-9.png)
 
       Partition the Drive:
 
       Select the partition where you want to install Windows 11. You can delete existing partitions to create a new one, but this will erase all data on the selected partition.
 
-      (image-10.png)
+      ![alt text](image-10.png)
 
       Click "Next" to start the installation.
       
@@ -111,7 +111,7 @@ Step 1: Create Windows 11 Installation Media
 
       After installation, you will be guided through the initial setup process. Configure your preferences, sign in with your Microsoft account, and set up any additional settings.
 
-      (image-11.png)
+      ![alt text](image-11.png)
 
 
 
@@ -129,7 +129,7 @@ Go to the Visual Studio Code download page: https://code.visualstudio.com/Downlo
 Under the "Download Visual Studio Code" section, click "Download for Windows".
 This will start the download of the VS Code installer (VSCodeUserSetup-x64-1.X64-1.XX.X.exe).
 
-(image-12.png)
+![alt text](image-12.png)
 
 Run the Installer:
 
@@ -140,15 +140,15 @@ Installation Prompt:
 
 Accept the license agreement and click next.
 
-(image-13.png)
+![alt text](image-13.png)
 
 Choose the location where you want the VS Code installation to be kept. Accept the default location and click next.
 
-(image-14.png)
+![alt text](image-14.png)
 
 Accept the default Start Menu Folder and click Next.
 
-(image-15.png)
+![alt text](image-15.png)
 
 Select additional tasks (optional but recommended):
 Click on Create a Desktop icon.
@@ -158,18 +158,18 @@ Adding “Open with Code” action to the Windows Explorer context menu.
 Adding “Open with Code” to the directory context menu.
 Click next.
 
-(image-16.png)
+![alt text](image-16.png)
 
 The installation will begin. Click on the install button.
 After clicking install, it should take about one minute to install VS Code on your device.
 
-(image-17.png)
+![alt text](image-17.png)
 
 Finish Installation:
 
 After installation, a setup window will appear. Tick on Launch VS Code and click Finish.
 
-(image-18.png)
+![alt text](image-18.png)
 
 
 
@@ -193,11 +193,11 @@ Run the Git installer (Git-2.38.0-64-bit.exe).
 The installer wizard will appear.
 Accept the license agreement and click next.
 
-(image-20.png)
+![alt text](image-20.png)
 
 choose the location where you want the Git installation to be kept. Accept the default location and click next.
 
-(image-21.png)
+![alt text](image-21.png)
 
 Follow the Installation Wizard:
 
@@ -208,29 +208,29 @@ Choosing the HTTPS transport backend.
 Configuring the line-ending conversions.
 Choosing the default Git editor.
 
-(image-22.png)
+![alt text](image-22.png)
 
 Start folder:
 
 You’ll be prompted to create a start folder. Leave it as is and click Next.
 
-(image-23.png)
+![alt text](image-23.png)
 
 Text editor:
 
 Choose a text editor to use with Git. Click on the drop-down menu to pick the text editor you like to use like Vim, Notepad++, etc, and click Next.
 
-(image-24.png)
+![alt text](image-24.png)
 
 In the next steps choose all default options and click finish
 
-(image-25.png)
+![alt text](image-25.png)
 
 Verify the Installation:
 
 Open Command Prompt or Git Bash and run git –version
 
-(image-26.png)
+![alt text](image-26.png)
 
 Step 2: Configuring Git
 
@@ -264,7 +264,7 @@ Click on “Create repository”.
 Choose a license (optional)
 Click "Create repository"
 
-(image-27.png)
+![alt text](image-27.png)
 
 step 5: Cloning Git Repository
 
@@ -279,14 +279,14 @@ Create a new file: [touch example.txt]
 Add content to the file: [nano example.txt]
 Save and exit the editor (for nano, press Ctrl+X, then Y, and Enter).
 
-(image-28.png)
+![alt text](image-28.png)
 
 Check the status of your repository: [git status]
 Add the new file to the staging area: [git add example.txt]
 Commit the changes: [git commit -m "Add example.txt"]
 Push the changes to the remote repository: [git push -u origin master]
 
-(image-30.png)
+![alt text](image-30.png)
 
 git ignore file
 
@@ -302,7 +302,7 @@ Go to https://www.python.org/downloads/
 Download the latest version of Python for Windows.
 Select the installer that corresponds to the version of Python you want to install.
 
-(image-31.png)
+![alt text](image-31.png)
 
 step2: Run the installer
 
@@ -311,7 +311,7 @@ Run the installer.
 Check the box that says "Add Python to PATH".
 Click "Install Now".
 
-(image-32.png)
+![alt text](image-32.png)
 
 step3: Verify Installation
 
@@ -319,7 +319,7 @@ Open Command Prompt or Git Bash.
 Run python --version
 Verify the installation by checking the version number.
 
-(image-33.png)
+![alt text](image-33.png)
 
 DOWNLOADING DART
 
@@ -334,11 +334,11 @@ Download the Dart SDK:
 Click on the "Download Dart SDK" button for Windows.
 Choose the .zip file for Windows and download it.
 
-(image-34.png)
+![alt text](image-34.png)
 Extract the ZIP File:
 Extract the downloaded ZIP file to a desired location on your computer, e.g., C:\dart-sdk.
 
-(image-35.png)
+![alt text](image-35.png)
 
 Update Your PATH Environment Variable:
 Open the Start Search, type in env, and select "Edit the system environment variables".
@@ -347,7 +347,7 @@ In the Environment Variables window, find the Path variable in the "System varia
 Click "New" and add the path to the bin directory inside the extracted Dart SDK folder (e.g., C:\dart-sdk\bin).
 Click "OK" to close all the windows.
 
-(image-36.png)
+![alt text](image-36.png)
 
 Step 3: Verify Dart Installation
 
@@ -355,7 +355,7 @@ Open Command Prompt or Git Bash.
 Run dart --version
 Verify the installation by checking the version number.
 
-(image-37.png)
+![alt text](image-37.png)
 
 DOWNLOAD FLUTTER SDK
 
@@ -372,24 +372,24 @@ Go to https://flutter.dev/docs/get-started/install/windows
 Download the latest version of Flutter for Windows.
 Select the installer that corresponds to the version of Flutter you want to install.
 
-(image-38.png)
+![alt text](image-38.png)
 
 Step 3: Install Flutter SDK on Your Operating System
 
 Download the Flutter SDK:
 Click on the "Download Flutter SDK" button for Windows
 
-(image-39.png)
+![alt text](image-39.png)
 
 Choose the .zip file for Windows and download it.
 
-(image-40.png)
+![alt text](image-40.png)
 
 Extract the ZIP File:
 
 Extract the downloaded ZIP file to a desired location on your computer, e.g., C:\flutter-sdk.
 
-(image-41.png)
+![alt text](image-41.png)
 
 Update Your PATH Environment Variable:
 
@@ -399,7 +399,7 @@ In the Environment Variables window, find the Path variable in the "System varia
 Click "New" and add the path to the bin directory inside the extracted Flutter SDK folder (e.g., C:\flutter-sdk\bin).
 Click "OK" to close all the windows.
 
-(image-42.png)
+![alt text](image-42.png)
 
 Verify Flutter Installation
 
@@ -407,14 +407,14 @@ Open Command Prompt or Git Bash.
 Run flutter --version
 Verify the installation by checking the version number.
 
-(image-43.png)
+![alt text](image-43.png)
 
 Run Flutter Doctor:
 
 Type flutter doctor and press Enter.
 This command checks your environment and displays a report of the status of your Flutter installation. Ensure all required dependencies are installed.
 
-(image-44.png)
+![alt text](image-44.png)
 
 
 
@@ -430,7 +430,7 @@ Ensure pip is installed and up-to-date: [python -m pip install --upgrade pip]
 Install required packages: [python -m pip install -r requirements.txt]
 To install a package using pip: [pip install package-name]
 
-   (image-45.png)
+   ![alt text](image-45.png)
 
 
 6. Configure a Database (MySQL):
@@ -441,7 +441,7 @@ Go to the MySQL Community Downloads page.https://dev.mysql.com/downloads/install
 Download the latest version of MySQL for Windows.
 Select the installer that corresponds to the version of MySQL you want to install.
 
-(image-46.png)
+![alt text](image-46.png)
 
 Run the Installer:
 
@@ -450,54 +450,54 @@ Choose Setup Type:
 
 Choose a setup type (Developer Default, Server only, etc.) and click Next.
 
-(image-47.png)
+![alt text](image-47.png)
 
 Check for Requirements:
 
 The installer will check for and install the necessary dependencies.
 
-(image-50.png)
+![alt text](image-50.png)
 
 Installation:
 
 Click Execute to install the selected MySQL products.
 
-(image-51.png)
+![alt text](image-51.png)
 
 Configuration:
 
 Next, you need to configure the MySQL server, click "Next":
 
-(image-52.png)
+![alt text](image-52.png)
 
 Standalone MySQL Server
 
 Select the "Standalone MySQL Server / Classic MySQL Replication" item and click "Next":
 
-(image-53.png)
+![alt text](image-53.png)
 
 Type and Networking
 
 Next, in the "Config Type" parameter, select "Server Computer" and click "Next":
 
-(image-54.png)
+![alt text](image-54.png)
 
 Password and authentication :
 
 Select "Use Strong Password Encryption for Authentication" and click "Next":
 
-(image-56.png)
+![alt text](image-56.png)
 
 Accounts and roles :
 In the next window, you need to set a password for the root user (administrator). Also, here you can add other users (by clicking the "Add User" button), if necessary. After entering the password, click "Next":
 At the next step, we leave all the default settings, and click "Next":
 
-(image-58.png)
+![alt text](image-58.png)
 
 MySQL server settings:
 Next, you need to apply the MySQL server settings by clicking "Execute":
 
-(image-59.png)
+![alt text](image-59.png)
 
 Finish
 Finally, click "Finish" to complete the installation.
